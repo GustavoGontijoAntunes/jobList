@@ -1,4 +1,4 @@
-# testeTecnico-ListaEmpregos
+# jobList
 
 Technical Test - Junior level
 In this challenge, you will be responsible for creating a RESTful API for a list of
